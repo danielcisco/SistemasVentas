@@ -1,0 +1,2 @@
+1. Para restaurar la base de datos utilice el archivo dbventas y el siguiente tutorial:
+https://www.youtube.com/watch?v=0_GNCin2E6w&list=PLZPrWDz1MolrT1ID3CRIeR6jPLJ7Fp1x6&index=14

@@ -1,0 +1,24 @@
+C:\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\SisVentas - copia\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\SisVentas - copia\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\SisVentas - copia\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\SisVentas - copia\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\SisVentas - copia\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\SisVentas - copia\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\SisVentas - copia\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll.config
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb

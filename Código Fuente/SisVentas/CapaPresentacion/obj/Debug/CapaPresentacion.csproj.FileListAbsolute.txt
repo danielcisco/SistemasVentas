@@ -1,0 +1,127 @@
+C:\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Ingreso.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedor_Ingreso.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Venta.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+C:\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\SisVentas\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulos.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsulta_Stock_Articulos.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultaCompras.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultaVentas.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteCategoria.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteCliente.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteCompras.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReportePresentacion.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteProveedor.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteTrabajador.resources
+C:\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteVentas.resources
+C:\SisVentas - copia\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\SisVentas - copia\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\SisVentas - copia\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\SisVentas - copia\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\SisVentas - copia\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\SisVentas - copia\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\SisVentas - copia\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultaCompras.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultaVentas.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsulta_Stock_Articulos.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Ingreso.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Venta.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedor_Ingreso.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulos.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteCategoria.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteCliente.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteCompras.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReportePresentacion.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteProveedor.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteTrabajador.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteVentas.resources
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\SisVentas - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultaCompras.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsultaVentas.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.FrmConsulta_Stock_Articulos.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Ingreso.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticulo_Venta.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCliente_Venta.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedor_Ingreso.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulos.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteCategoria.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteCliente.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteCompras.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReportePresentacion.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteProveedor.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteTrabajador.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.FrmReporteVentas.resources
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
